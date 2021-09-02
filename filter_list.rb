@@ -7,3 +7,4 @@ def filter_list(l)
 end
 
 puts filter_list([1,2,'a','b'])
+puts filter_list([1,2,'c',5,6,'d'])
