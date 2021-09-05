@@ -15,3 +15,4 @@ def order(words)
 end
 
 p order("is2 Thi1s T4est 3a")
+p order("this2 i3e def1 4tf")
